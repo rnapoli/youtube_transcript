@@ -102,7 +102,11 @@ youtube-transcript-downloader/
 
 ## 📝 License
 
-MIT License
+Apache License 2.0
+
+This project is licensed under the Apache License, Version 2.0. You must include attribution if you reuse any part of this code.
+
+See the [LICENSE](LICENSE) file for full license text.
 
 ---
 
@@ -123,4 +127,3 @@ MIT License
 ---
 
 Feel free to fork, contribute, or request a feature!
-
